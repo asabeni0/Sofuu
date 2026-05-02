@@ -42,7 +42,7 @@ CORS(app)
 # ============================================
 # CHANGE ONLY THIS NUMBER PER SERVER
 # ============================================
-SERVER_NUMBER = 3  # 1=Dil, 2=sofu, 3=bebby, 4=kaleb, 5=fitsum
+SERVER_NUMBER = 2  # 1=Dil, 2=sofu, 3=bebby, 4=kaleb, 5=fitsum
 
 # ============================================
 # ALL CREDENTIALS HARDCODED - 5 SERVERS
